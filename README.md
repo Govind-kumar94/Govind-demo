@@ -1,4 +1,4 @@
 # Govind-demo
 this is my first git repository.
 <br>
-author - govind kumar
+author - govind (alard college)
